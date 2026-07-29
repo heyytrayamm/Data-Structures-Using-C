@@ -1,8 +1,8 @@
-# Data Structures in C
+# 📚 Data Structures and Algorithms in C
 
-This repository contains my implementations of fundamental Data Structures and Algorithms in the C programming language. I created these programs while learning DSA to strengthen my understanding of core concepts, improve problem-solving skills, and build a solid foundation for coding interviews and placements.
+This repository contains my implementations of fundamental **Data Structures and Algorithms (DSA)** in the **C programming language**.
 
-The repository includes implementations of arrays, linked lists, stacks, queues, trees, searching, sorting, and other important DSA concepts.
+I created these programs while learning DSA to improve my programming skills, strengthen my understanding of core concepts, and build a strong foundation for coding interviews and placements.
 
 ---
 
@@ -22,7 +22,7 @@ The repository includes implementations of arrays, linked lists, stacks, queues,
 - Linear Search
 - Binary Search
 
-### Sorting Algorithms
+### Sorting
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
@@ -51,7 +51,7 @@ The repository includes implementations of arrays, linked lists, stacks, queues,
 - Binary Search Tree (BST)
 - Full BST
 - Heapify
-- BST Maximum & Minimum Operations
+- Maximum & Minimum in BST
 
 ### Pointers
 - Pointer Basics
@@ -59,43 +59,13 @@ The repository includes implementations of arrays, linked lists, stacks, queues,
 
 ---
 
-## Programs Included
+## Features
 
-| File | Description |
-|------|-------------|
-| `1darray.c` | Basic operations on 1D array |
-| `2darray.c` | 2D array implementation |
-| `2darray_pointers.c` | 2D arrays using pointers |
-| `array_pointer.c` | Arrays with pointers |
-| `array_usingpointerloop.c` | Array traversal using pointer loops |
-| `traversal_array.c` | Array traversal |
-| `insertion_array.c` | Array insertion |
-| `insertatbegin_array.c` | Insert element at beginning |
-| `deletion_array.c` | Delete element from array |
-| `linear_search.c` | Linear Search |
-| `binary_search.c` | Binary Search |
-| `bubble_sort.c` | Bubble Sort |
-| `selection_sort.c` | Selection Sort |
-| `insertion_sort.c` | Insertion Sort |
-| `merge_sort.c` | Merge Sort |
-| `mergesort.c` | Alternative Merge Sort implementation |
-| `quick_sort.c` | Quick Sort |
-| `Linkedlist.c` | Singly Linked List |
-| `circular_linkedlist.c` | Circular Linked List |
-| `doubly_linkedlist.c` | Doubly Linked List |
-| `Stack._usingarray.c` | Stack using Array |
-| `stack_using_linkedlist.c` | Stack using Linked List |
-| `queue_array.c` | Queue using Array |
-| `queue_linkedlist.c` | Queue using Linked List |
-| `queue_stack.c` | Queue using Stacks |
-| `circularqueue_array.c` | Circular Queue using Array |
-| `circularqueue_linkedlist.c` | Circular Queue using Linked List |
-| `deque_circulararray.c` | Deque using Circular Array |
-| `binarytree.c` | Binary Tree |
-| `full_bst.c` | Binary Search Tree implementation |
-| `maximini_bst.c` | Maximum & Minimum operations in BST |
-| `heapify.c` | Heapify operation |
-| `pointer.c` | Pointer concepts |
+- Beginner-friendly C programs
+- Covers essential Data Structures
+- Includes popular Searching and Sorting algorithms
+- Easy to understand and practice
+- Written for learning purposes
 
 ---
 
@@ -109,10 +79,15 @@ The repository includes implementations of arrays, linked lists, stacks, queues,
 
 ## How to Run
 
-Compile any program using GCC.
+Compile any C program using GCC.
 
 ```bash
 gcc filename.c -o output
+```
+
+Run the program:
+
+```bash
 ./output
 ```
 
@@ -127,20 +102,27 @@ gcc binary_search.c -o binary_search
 
 ## Purpose
 
-The goal of this repository is to practice Data Structures from scratch without using external libraries. Every program is written to understand how the underlying data structure or algorithm works internally.
+The purpose of this repository is to learn and practice Data Structures and Algorithms by implementing them from scratch in C without using external libraries.
 
 ---
 
 ## Future Improvements
 
-- Add time and space complexity for every program.
-- Improve code modularity.
-- Add more advanced data structures like Graphs, Tries, and AVL Trees.
-- Include sample inputs and outputs.
+- Add Time and Space Complexity for each program
+- Add Graph Data Structure
+- Add AVL Tree
+- Add Trie
+- Add Sample Inputs and Outputs
+- Improve code organization
 
 ---
 
 ## Author
 
 **Trayam Roy**
-05:24 AM,Midnapore,WB
+
+B.Tech Information Technology
+
+GitHub: https://github.com/heyytrayamm
+
+06:14 AM,Midnapore,WB
